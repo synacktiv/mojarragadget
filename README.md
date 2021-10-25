@@ -10,7 +10,7 @@ More information here:
 
 ## build
 
-### version 2.3
+### version 2.3
 
 ```
 cd mojaraaGadget-JSF-2.3/
@@ -25,7 +25,7 @@ Then the following URLs are exposed:
 - http://127.0.0.1:8080/mojaraaGadget-JSF-2.3/readObject.xhtml
 
 
-### version 3.0
+### version 3.0
 
 ```
 cd mojaraaGadget-JSF-3.0/
